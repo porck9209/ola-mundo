@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: arial;
+}
+
+footer {
+    padding-top: 500px;
+    color: rgb(0, 183, 255);
+    text-shadow: 2px 1px white;
+}
